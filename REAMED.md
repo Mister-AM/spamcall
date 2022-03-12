@@ -17,5 +17,5 @@ git clone https://github.com/Mister-AM/spamcall
 
 cd spamcall
 
-python enc_Call.py
+python2 enc_Call.py
 
