@@ -5,7 +5,9 @@ Subs yotube aing ngab
 # bahan bahan
 pkg update && pkg upgrade
 
-pkg install python2 -y
+pkg install python -y
+
+pkg install curl
 
 pkg install wget
 
@@ -17,5 +19,7 @@ git clone https://github.com/Mister-AM/spamcall
 
 cd spamcall
 
-python2 enc_Call.py
+python Call.py
+
+# gunakan dengan bijak
 
